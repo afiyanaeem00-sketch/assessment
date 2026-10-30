@@ -11,7 +11,7 @@ body {
     background: white;
 }
 
-/* NAVBAR */
+
 .navbar {
     height: 75px;
     padding: 0 7%;
@@ -50,7 +50,7 @@ body {
     cursor: pointer;
 }
 
-/* HERO SECTION */
+
 .hero {
     background: #ff5200;
     color: white;
@@ -81,7 +81,7 @@ body {
     outline: none;
 }
 
-/* SERVICE CARDS */
+
 .service-cards {
     display: flex;
     justify-content: center;
@@ -138,7 +138,7 @@ body {
     line-height: 27px;
 }
 
-/* COMMON SECTIONS */
+
 .section {
     max-width: 1120px;
     margin: auto;
@@ -151,7 +151,7 @@ body {
     font-weight: bold;
 }
 
-/* FOOD CATEGORIES */
+
 .food-list {
     display: flex;
     justify-content: space-between;
@@ -251,7 +251,7 @@ body {
     margin-bottom: 6px;
 }
 
-/* APP BANNER */
+
 .app-banner {
     max-width: 900px;
     margin: 25px auto 40px;
@@ -283,7 +283,7 @@ body {
     border-radius: 8px;
 }
 
-/* CITIES */
+
 .cities {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -298,7 +298,7 @@ body {
     font-size: 12px;
 }
 
-/* FOOTER */
+
 footer {
     background: #f1f1f6;
     padding: 40px 8% 20px;
